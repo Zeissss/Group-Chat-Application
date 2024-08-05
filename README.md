@@ -11,3 +11,7 @@ Now the CSS, JavaScript, PHP and HTML part is put together and stored in the fil
 - Check the XAMPP control panel to ensure whether the Apache and MySQL are in running state.
 - Open the browser and type localhost/myfiles. The index of that directory will open. Click on the Group_chat.php.
 - Start sending messages and see the result
+
+#Screenshots:
+####### Empty chatroom:
+[image] (
