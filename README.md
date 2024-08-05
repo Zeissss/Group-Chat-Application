@@ -3,7 +3,7 @@ This is a simple group chat application to demonstrate the idea of the one you s
 
 
 ### Group_chat.php
-Now the CSS, JavaScript, PHP and HTML part is put together and stored in the filel named "Group_chat.php".
+Now the CSS, JavaScript, PHP and HTML part is put together and stored in the file named "Group_chat.php".
 
 ## Steps to run the code:
 - Save the file above as Group_chat.php inside a new folder in C:\xampp\htdocs. For example, I have placed the file inside the folder named “myfiles” inside the htdocs folder.
